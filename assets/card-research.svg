@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 616" role="img" aria-label="研究：胜率 40 到 60 的健康玩家占比，MMRv2 最高，为 89.25%"><style>
+:root{--bg:#F6F4EC;--panel:#ECE8DB;--ink:#142521;--muted:#56665F;--line:#D5D0C0;
+--brand:#174C42;--bar:#B9C2B8;--hot:#174C42;--amber:#E8B84A;--win:#DDD8C8;--bldg:#CFC9B6}
+@media (prefers-color-scheme:dark){:root{--bg:#10211D;--panel:#17302A;--ink:#F3F0E6;
+--muted:#A3B5AE;--line:#2C443D;--brand:#F6F4EC;--bar:#3E5A52;--hot:#E8B84A;--amber:#E8B84A;
+--win:#1D3932;--bldg:#17302A}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+text{font-family:'Segoe UI','PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',system-ui,sans-serif;fill:var(--ink)}
+.m{fill:var(--muted)}
+.b{font-weight:700}
+</style><rect width="800" height="600" rx="24" fill="var(--bg)"/><text x="40" y="66" font-size="25" class="m">研究 · 匹配机制基准框架</text><text x="40" y="124" font-size="36" class="b">对手怎么配，比分数怎么算更重要</text><text x="40" y="186" font-size="25">胜率 40–60% 的健康玩家占比</text><text x="40" y="222" font-size="22" class="m">1 万名模拟玩家，50 万场对局后</text><text x="158" y="283" font-size="25" text-anchor="end">Random</text><path d="M174 256H308.791a4 4 0 0 1 4 4V288a4 4 0 0 1 -4 4H174Z" fill="var(--bar)"/><text x="324.791" y="283" font-size="25" class="b">29.53%</text><text x="158" y="347" font-size="25" text-anchor="end">Elo</text><path d="M174 320H569.265a4 4 0 0 1 4 4V352a4 4 0 0 1 -4 4H174Z" fill="var(--bar)"/><text x="585.265" y="347" font-size="25" class="b">84.95%</text><text x="158" y="411" font-size="25" text-anchor="end">MMR</text><path d="M174 384H567.2909999999999a4 4 0 0 1 4 4V416a4 4 0 0 1 -4 4H174Z" fill="var(--bar)"/><text x="583.2909999999999" y="411" font-size="25" class="b">84.53%</text><text x="158" y="475" font-size="25" text-anchor="end">MMRv2</text><path d="M174 448H589.475a4 4 0 0 1 4 4V480a4 4 0 0 1 -4 4H174Z" fill="var(--hot)"/><text x="605.475" y="475" font-size="25" class="b">89.25%</text><text x="40" y="556" font-size="23" class="m">IEEE 格式论文 · 四人小组课程项目 · Python</text></svg>
