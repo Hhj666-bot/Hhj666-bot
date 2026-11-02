@@ -2,8 +2,6 @@
   <img src="assets/banner.svg" width="100%" alt="hhj，港中深 CSE 本科生。把不同的 AI 请进同一间屋子。">
 </p>
 
-我是 **hhj**，香港中文大学（深圳）CSE 本科生。现在主要在做 HiveLab 合屋，也写 Minecraft 模组，还和同学一起研究过游戏匹配机制。
-
 CSE undergraduate at CUHK-Shenzhen, building a local multi-agent AI workspace.
 
 个人网站：<https://hhj666-bot.github.io/>
