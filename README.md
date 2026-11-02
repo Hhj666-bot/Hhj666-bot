@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="hhj，港中深 CSE 本科生。把不同的 AI 请进同一间屋子。">
+  <img src="assets/banner.svg" width="100%" alt="hhj，港中深 CSE 本科生。把不同的 Agent 请进同一间屋子。">
 </p>
 
 CSE undergraduate at CUHK-Shenzhen, building a local multi-agent AI workspace.
